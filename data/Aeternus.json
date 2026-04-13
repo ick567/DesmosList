@@ -1,8 +1,12 @@
 {
+    "id": "none",
     "name": "Aeternus",
+    "author": "HuyggGD",
+    "creators": ["HuyggGD"],
     "verifier": "HuyggGD",
     "verification": "https://youtu.be/uIV_V1c--84",
     "percentToQualify": 100,
+    "password": "none",
     "records": [
     ]
 }
