@@ -1,8 +1,12 @@
 {
+    "id": "none",
     "name": "GRIEF",
-    "verifier": "HuyggGD",
+    "author": "HyuggGD",
+    "creators": ["HyuggGD"],
+    "verifier": "HyuggGD",
     "verification": "https://youtu.be/h6rtfkP0PcQ",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
+    "password": "none",
     "records": [
     ]
 }
