@@ -1,7 +1,8 @@
 {
     "name": "Aeternus",
-    "author": "HuyggGD",
+    "verifier": "HuyggGD",
     "verification": "https://youtu.be/uIV_V1c--84?si=EzFBgt5mP8D_P74M",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "records": [
+    ]
 }
